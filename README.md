@@ -6,6 +6,7 @@ The Stack Operation project demonstrates how to manage a stack data structure in
 **Pop Operation**: Remove the top element from the stack.<br>
 **Display Operation**: View all elements in the stack from top to bottom.<br>
 <br>**Project Files**<br>
+**c implementation** : contains the source code for stack operations using c.<br>
 **SLL Implementation**: Contains the source code for stack operations using a singly linked list.<br>
 **DLL Implementation**: Contains the source code for stack operations using a doubly linked list.<br>
 <br>**How It Works**<br>
