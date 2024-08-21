@@ -1,5 +1,5 @@
 # stack operation (using c-programming SLL DLL).
-The Stack Operation project demonstrates how to manage a stack data structure in C, utilizing both singly linked lists (SLL) and doubly linked lists (DLL). Users can perform essential stack operations and explore the differences between these two implementations.<br>
+The Stack Operation project demonstrates how to manage a stack data structure in C, utilizing both singly linked lists (SLL) and doubly linked lists (DLL). Users can perform essential stack operations and explore the differences between these three implementations.<br>
 
 <br>**Features**<br>
 **Push Operation**: Add an element to the top of the stack.<br>
